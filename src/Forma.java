@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Forma {
+public abstract class Forma {
+
+    public abstract void calcolaArea();
 }
